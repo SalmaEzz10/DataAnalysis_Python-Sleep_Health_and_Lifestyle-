@@ -315,7 +315,7 @@ These observations describe patterns in this dataset and should not be interpret
 ## 📁 Project Structure
 
 ```text
-Sleep-Health-Lifestyle-EDA/
+DataAnalysis_Python-Sleep_Health_and_Lifestyle-/
 │
 ├── Sleep_Health_and_Lifestyle_Dataset.csv
 ├── DA_sleep_health.ipynb
