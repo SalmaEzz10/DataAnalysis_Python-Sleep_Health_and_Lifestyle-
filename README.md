@@ -329,7 +329,7 @@ Sleep-Health-Lifestyle-EDA/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone (https://github.com/SalmaEzz10/DataAnalysis_Python-Sleep_Health_and_Lifestyle-)
 ```
 
 ### 2. Install the required libraries
