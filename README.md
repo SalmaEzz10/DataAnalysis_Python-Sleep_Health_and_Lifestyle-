@@ -324,28 +324,8 @@ Sleep-Health-Lifestyle-EDA/
 
 ---
 
-## 🚀 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone (https://github.com/SalmaEzz10/DataAnalysis_Python-Sleep_Health_and_Lifestyle-)
-```
-
-### 2. Install the required libraries
+### Install the required libraries
 
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
-```
-
-### 3. Open the notebook
-
-```bash
-jupyter notebook
-```
-
-Then open:
-
-```text
-Sleep_Health_Lifestyle_EDA.ipynb
 ```
